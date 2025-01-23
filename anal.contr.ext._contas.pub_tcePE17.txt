@@ -1,0 +1,55 @@
+10011378, Adeildo Pedro dos Santos Junior, 73.00, 25.73 / 10011439, Adriano Marabuco de Albuquerque
+Lima, 78.00, 26.86 / 10006166, Alain Esmeraldo Lopes, 88.00, 22.37 / 10011580, Alessandro Baum, 74.00,
+26.86 / 10024767, Alex Luiz Soares dos Santos, 77.00, 25.40 / 10004019, Alexsandro Fonseca de Oliveira,
+80.00, 26.97 / 10020455, Amanda Daniele Barbosa, 73.00, 27.06 / 10023030, Amanda Patricia Nogueira
+Lessa, 75.00, 22.14 / 10011542, Ana Rosa Araujo de Flores Brandao, 73.00, 26.78 / 10020734, Andre Lorenco
+da Silva Rego, 76.00, 26.81 / 10023517, Andre Samuel, 83.00, 33.57 / 10005341, Andressa Monteiro Passos,
+79.00, 26.26 / 10018941, Antonio Carlos de Moraes Cavalcanti, 78.00, 25.78 / 10018815, Arthur Batista de
+Sousa, 78.00, 30.30 / 10008923, Arthur do Rego Barros Mendonca, 79.00, 25.46 / 10029343, Ary Guilherme
+Siqueira Lourenco Magioli, 76.00, 23.82 / 10002623, Augusto Carlos Diniz Costa Filho, 80.00, 26.66 /
+10008741, Bruno Buarque de Andrade, 81.00, 39.00 / 10016862, Bruno Correa de Araujo Amorim, 77.00,
+26.13 / 10007637, Bruno Eduardo de Castro Carrilho, 80.00, 26.12 / 10012648, Bruno Goncalves Miranda,
+75.00, 30.67 / 10021723, Bruno Savio Boghossian dos Santos, 73.00, 30.38 / 10012314, Caio Cesar Santos
+Oliveira, 73.00, 27.16 / 10004091, Camila Comodo Ferrari Sabino, 75.00, 31.67 / 10005487, Camila de Fatima
+Campos Damazio, 76.00, 18.95 / 10007123, Candice Ramos Marques, 85.00, 27.13 / 10014274, Carlos
+Eduardo Batista de Oliveira, 79.00, 26.53 / 10020651, Carmem Solange Wachholz, 76.00, 26.78 / 10004495,
+Carolina de Souza Rego, 78.00, 27.09 / 10003719, Claudino Sales Neto, 80.00, 27.00 / 10006815, Dalmo
+Anderson Costa de Mendonca, 73.00, 30.73 / 10019984, Daniel Duarte Baracho, 75.00, 26.96 / 10014975,
+Daniel Teixeira de Melo, 73.00, 27.26 / 10022259, Danilo Bellei Barbosa, 81.00, 27.20 / 10008401, David Viana de Oliveira, 76.00, 26.85 / 10020565, Dhieniffer Ferreira de Carvalho, 74.00, 26.95 / 10013115, Diego
+Henrique Moraes Maciel, 82.00, 22.54 / 10003827, Diogo Campos Pedroza de Souza, 86.00, 27.20 /
+10004415, Douglas Henrique Rodrigues, 79.00, 26.86 / 10019327, Eduardo Victor de Assis Menezes, 79.00,
+31.73 / 10004102, Elder Loureiro de Barros Correia, 76.00, 30.59 / 10018317, Elivan de Melo Lima, 76.00,
+20.80 / 10006822, Emanuel Felipy Melo Araujo, 74.00, 27.26 / 10022622, Eric Ferrer Belhot, 78.00, 34.66 /
+10017998, Ermilson Rabelo de Jesus, 81.00, 26.73 / 10008702, Ernesto Henrique Engel Gomes da Silva Filho,
+73.00, 26.50 / 10008786, Ezequiel Jose Baratter, 77.00, 21.12 / 10022878, Fabio de Bonfim, 73.00, 26.26 /
+10022301, Fabio Farias de Almeida, 74.00, 27.00 / 10017734, Felipe Felix de Oliveira, 76.00, 21.08 /
+10013007, Felipe Lazera Cardoso, 76.00, 26.01 / 10013309, Felipe Moreira Caland Bastos, 77.00, 20.77 /
+10003177, Fernando Clemente da Silva Junior, 74.00, 29.33 / 10015215, Fernando Roberio Passos Teixeira
+Filho, 76.00, 30.10 / 10012716, Flavio Roberto dos Santos Pereira, 73.00, 25.60 / 10017444, Francisco George da Fonseca, 73.00, 26.43 / 10014676, Francisco Gomes de Amorim, 76.00, 26.33 / 10019151, Francisco
+Henrique Ramires de Barros Barreto, 79.00, 25.86 / 10019597, Gabriel da Luz Fraga Barbosa Goncalves de
+Azevedo, 74.00, 26.60 / 10019789, Gabriel Neuman, 76.00, 25.62 / 10011541, Hegon Guimaraes da Trindade,
+77.00, 22.11 / 10003637, Henrique Sergio Barros Cavalcanti Junior, 76.00, 30.40 / 10023997, Heraclito
+Ricardo Alves de Medeiros Firmino, 74.00, 26.33 / 10022897, Irvyson Jose Leite de Souza, 80.00, 26.96 / 10003115, Jardel Batista Silva Araujo, 75.00, 26.64 / 10029340, Joana Castro Carvalho, 75.00, 26.81 /
+10009460, Joao Guilherme Soares da Silva, 74.00, 25.40 / 10006667, Joao Lucas Paiva Fernandes, 76.00, 31.31
+/ 10002938, Jose de Oliveira Freitas Neto, 73.00, 26.12 / 10027447, Jose Emerson Abrantes Diniz, 78.00, 22.51
+/ 10007663, Jose Sergio Pinheiro Machado Filho, 74.00, 27.10 / 10019535, Juliane Maceno dos Santos, 84.00,
+26.13 / 10007451, Kamila Clemente Dilon, 75.00, 25.64 / 10020971, Karlos Rafael Soares Alves, 76.00, 26.26
+/ 10020426, Kleber Pinto Biondi Vieira, 76.00, 27.13 / 10009170, Leonardo Andre Malacario de Campos,
+85.00, 26.57 / 10002098, Lorhan Henrique Costa, 75.00, 26.80 / 10003190, Lucas Dias Veloso, 82.00, 26.93 /
+10016304, Lucas Luft, 75.00, 20.96 / 10002114, Lucas Romero Assuncao, 80.00, 27.13 / 10026462, Luciano
+Marques Reduzino, 74.00, 24.80 / 10004681, Luis Filipe Auto Gomes, 78.00, 39.67 / 10014799, Luis Otavio
+Cavalcante Borba, 81.00, 30.86 / 10008542, Luiz Gustavo Silveira Chaves, 78.00, 27.20 / 10005910, Marcelo
+de Lima Balzana Filho, 78.00, 25.85 / 10024302, Marcelo Magalhaes Barros, 78.00, 29.83 / 10002992, Marcelo
+Victor Barbosa Xavier, 77.00, 25.53 / 10003070, Marcos Andre Araujo Pereira Filho, 73.00, 27.33 / 10011003,
+Marcus Vinicius da Silva, 78.00, 30.39 / 10026591, Mariana Dantas Cassimiro da Silva, 78.00, 22.19 /
+10006498, Matheus Pereira Alves, 76.00, 34.93 / 10015076, Matheus Willyans Felix Barbosa, 82.00, 30.19 /
+10019560, Michel de Oliveira Vasconcelos, 74.00, 27.20 / 10012829, Milton de Moura Resende Neto, 80.00,
+26.00 / 10004488, Murilo Santana Puga, 78.00, 26.89 / 10020636, Paulo Henrique Novaes Amaral Santos,
+73.00, 25.62 / 10010797, Pedro Henrique da Silva Benigno, 75.00, 25.53 / 10025786, Pedro Rocha Barreto
+Rodrigues, 81.00, 25.71 / 10009637, Rafael da Rosa Costa, 76.00, 25.26 / 10005018, Rafael Ferreira de Lira, 77.00, 26.12 / 10014994, Rafaela Costa da Fonte, 75.00, 27.09 / 10024733, Renan de Paula Neves, 74.00, 29.99 / 10024508, Renata Viana de Noronha, 78.00, 26.87 / 10011825, Robson Eduardo Ribeiro de Miranda Filho, 78.00, 27.33 / 10031159, Rodrigo Augusto Batalha Alves, 76.00, 26.13 / 10023587, Sandrioni Dionisio
+Calheiros, 73.00, 27.26 / 10007349, Sandro Ismael Robinson, 76.00, 16.45 / 10025296, Talita Ferreira de
+Souza Dourado, 78.00, 31.52 / 10017291, Tamires Neves Soares, 74.00, 19.01 / 10006905, Thiago Caporali
+Pinho Alves, 78.00, 29.13 / 10004824, Thiago Fernando Cardoso da Silva, 74.00, 27.00 / 10024724, Thiago
+Rodrigues de Azevedo, 81.00, 22.51 / 10020430, Thyago de Oliveira Cordeiro, 77.00, 26.64 / 10004023, Tiago
+de Barros Correia, 79.00, 26.89 / 10006155, Uitan Barreto Alves, 83.00, 31.59 / 10018410, Vanessa Hirakawa
+Martins, 76.00, 27.26 / 10012070, Victor Marcel Pereira Pires, 79.00, 22.30 / 10025404, Vitor Alexandre Alves, 75.00, 21.70 / 10009182, Wagner Jose Feitosa da Costa, 74.00, 23.56 / 10009968, Wilson do Carmo Santos, 76.00, 25.53

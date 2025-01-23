@@ -1,0 +1,292 @@
+10004008, Adijaci Pereira do Nascimento, 132.00, 11.71 / 10742279, Adonias Vieira da Silva, 124.00, 43.80
+/ 10152857, Adriana Aparecida Menezes, 130.00, 15.43 / 10392069, Adriano Araujo Pereira, 118.00, 17.77
+/ 10240050, Adriano Rangel Nishimura, 120.00, 40.08 / 10124141, Adrielle da Rocha Nunes, 128.00, 38.12
+/ 10060448, Aizamack Nascimento da Silva, 125.00, 20.54 / 10122146, Alana Cysneiros Gamboa Cardoso,
+136.00, 30.89 / 10552340, Alberlany Cristina Ribeiro Nunes, 138.00, 29.54 / 10023616, Alberto de Oliveira
+Lima, 130.00, 46.00 / 10607063, Alcy Melo dos Santos, 118.00, 36.52 / 10107608, Alessandra Batista
+Torres dos Reis, 150.00, 36.88 / 10022372, Alessandro Jose de Melo, 135.00, 43.43 / 10313176, Alexandre
+Alberto Barreto Galvao, 137.00, 49.66 / 10538438, Alexandre Carvalho Dieterichs, 118.00, 16.66 /
+10446353, Alexandre Dias de Lima, 148.00, 41.50 / 10001839, Alexandre Francisco Rodrigues, 138.00,
+36.33 / 10475711, Alexandre Giovanny Diniz da Silva, 122.00, 19.43 / 10650827, Alice Carneiro Leao
+Mendonca de Araujo, 134.00, 28.87 / 10474737, Aline dos Santos Campos, 126.00, 43.33 / 10154770,
+Aline Ramos Alves de Melo, 123.00, 31.67 / 10636174, Alison Abrantes Soares da Silva, 126.00, 33.72 /
+10607412, Allan Felipe Pereira de Melo, 120.00, 33.59 / 10392011, Allane Emylle Tributino Lima, 130.00,
+46.42 / 10277445, Allisson Renan Silva de Menezes, 139.00, 25.08 / 10170568, Amalia Alves Wanderley
+de Assuncao, 122.00, 28.80 / 10054659, Amanda Carneiro Correia da Silva, 124.00, 14.22 / 10181320,
+Amanda Danielly Bezerra Souza Maciel, 139.00, 24.38 / 10046901, Amanda Ferreira de Siqueira, 146.00,
+44.46 / 10255402, Amanda Soares Barros, 136.00, 19.70 / 10404862, Amara Renata Oliveira Pereira,
+123.00, 28.16 / 10099356, Amaro Marcelino Braga, 122.00, 8.64 / 10168999, Amaury Cesar Rezende Neto,
+156.00, 43.33 / 10541000, Ana Beatriz Cavalcanti de Sa, 129.00, 40.00 / 10334918, Ana Carla Vieira
+Geremias Sousa, 133.00, 47.17 / 10395344, Ana Claudia Pereira Vieira de Melo, 124.00, 46.25 / 10512661,
+Ana Cleide de Sousa Machado, 120.00, 34.51 / 10466246, Ana Maria Bazilio Ferreira, 126.00, 43.88 /
+10577234, Ana Paula Galdino Frazao, 138.00, 20.00 / 10474894, Anderson Ferreira Cruz, 138.00, 45.50 /
+10203781, Anderson Henrique Alves Cavalcante, 141.00, 49.05 / 10110794, Anderson Meneses de
+Oliveira, 148.00, 44.76 / 10142234, Anderson Thiago Monteiro da Silva, 129.00, 45.88 / 10455570, Andre
+Costa Pinto, 126.00, 27.79 / 10144393, Andre Henrique Bezerra, 120.00, 16.30 / 10868000, Andrea Kaline
+do Nascimento Silva, 121.00, 39.49 / 10167420, Angela Claudia de Andrade Araujo, 137.00, 41.42 /
+10151622, Anna Catharina Queiroz do Nascimento Malheiros, 158.00, 46.67 / 10076413, Anny Karolayne
+Lima Prado, 122.00, 8.28 / 10433633, Anselmo Romerio Pinheiro, 118.00, 35.08 / 10315764, Antonia
+Cleusir Barbosa Ferraz, 122.00, 47.67 / 10536228, Antonio Ramy Bispo de Oliveira, 118.00, 40.17 /
+10513925, Antonio Roberto Ferreira Lins Filho, 146.00, 42.72 / 10353441, Antonio Valter dos Santos,
+134.00, 43.21 / 10078416, Antonio Vieira da Silva, 126.00, 44.08 / 10329526, Ariann de Carvalho Lira,
+127.00, 37.42 / 10564453, Aricia Fernandes Alves da Silva, 122.00, 30.20 / 10696328, Arilson Ferreira da
+Silva Junior, 141.00, 44.53 / 10164372, Artur Moura Bezerra, 130.00, 25.59 / 10215309, Aryadne Elias de
+Melo, 132.00, 28.58 / 10009371, Atlle Ferreira de Santa Rosa, 126.00, 47.00 / 10248758, Audeci Felix dos
+Santos Silva, 128.00, 42.75 / 10134797, Barbara Christhinie da Costa Lima Maciel, 153.00, 40.32 /
+10106831, Barbara Julia Colares Henrique, 126.00, 48.62 / 10449508, Barnabe Lucas de Oliveira Neto,
+118.00, 28.62 / 10050303, Beatriz Rodrigues da Silva, 149.00, 34.88 / 10157772, Bergus Hermany, 137.00,
+15.20 / 10619449, Bianca de Lima Xavier Gomes, 120.00, 49.00 / 10300527, Bruna Araujo Rangel Bezerra,
+123.00, 48.46 / 10396516, Bruna Magalhaes Torreao, 121.00, 14.72 / 10323069, Bruna Roberta Costa de
+Lima, 127.00, 22.21 / 10027398, Bruna Simoes de Miranda, 135.00, 49.33 / 10432127, Bruna Valadares
+Calheiros de Siqueira, 134.00, 49.66 / 10436879, Bruno Alexandre da Silva, 121.00, 13.21 / 10016326,
+Bruno Mariano Ribeiro Caminha, 158.00, 9.46 / 10347064, Bruno Martins de Freitas, 142.00, 24.42 /
+10614248, Bruno Soares dos Santos Barbosa, 122.00, 44.57 / 10293357, Camila Ancelmo de Carvalho Pires
+de Oliveira, 129.00, 41.75 / 10643357, Camila de Araujo Guerra, 134.00, 48.75 / 10162441, Camila Epitacio
+Cravo Teixeira, 157.00, 48.00 / 10858148, Camila Fernanda de Carvalho Silva, 123.00, 27.92 / 10205711,
+Camila Leandro de Souza, 135.00, 36.55 / 10400267, Carla de Almeida, 134.00, 30.17 / 10490162, Carla
+Goncalves de Barros e Silva, 139.00, 48.00 / 10231880, Carlos Airam de Azevedo Lima, 152.00, 40.92 /
+10020140, Carlos Andre Silva do Nascimento, 141.00, 47.79 / 10008643, Carlos Eduardo de Lima, 123.00,
+9.30 / 10494033, Carlos Eduardo Marques da Silva, 134.00, 31.01 / 10660219, Carlos Gilberto de Oliveira,
+126.00, 35.50 / 10547192, Carlos Henrique de Souza Junior, 136.00, 36.20 / 10314658, Carlos Marcelo de
+Lima Santos, 141.00, 22.96 / 10022783, Carmen Luisa Araujo e Araujo Campos, 130.00, 26.21 / 10399813,
+Cassio Cleiton Rocha da Silva, 140.00, 19.17 / 10529777, Cassio de Mendonca Lima, 138.00, 44.59 /
+10396879, Catarina Camara de Albuquerque, 156.00, 42.40 / 10466559, Catarina Gomes de Brito Cabral,
+120.00, 27.21 / 10754050, Celso Luis Vila Nova, 130.00, 18.92 / 10330411, Charmila Alves de Souza,
+144.00, 47.38 / 10091439, Chirlene Bezerra da Silva, 128.00, 31.17 / 10640627, Christiane Saraiva
+Domingues, 118.00, 29.51 / 10134737, Christyne Maria Amaral Rodrigues de Oliveira, 127.00, 28.71 /
+10577534, Cicero de Medeiros Gurgel, 137.00, 36.46 / 10006960, Cicero Marcos Alves de Oliveira, 122.00,
+38.42 / 10329000, Cicero Raul Lopes, 120.00, 44.50 / 10646887, Cintia Arnaldo Jaco Coutinho, 118.00,
+18.80 / 10227489, Claudia Barreto Belian, 122.00, 18.96 / 10184309, Claudia Gusmao Teixeira, 123.00,
+24.67 / 10319523, Claudia Lucia Mendes Cavalcanti, 126.00, 42.37 / 10034113, Claudia Regina Carvalho
+Cordeiro Silva, 123.00, 41.00 / 10382401, Claudineia Aparecida de Souto, 118.00, 15.61 / 10637080,
+Claudio Emmanoel da Cruz Silva, 138.00, 46.90 / 10382230, Cleyton da Silva Lima, 133.00, 11.58 /
+10425963, Cleyton de Sousa Cardoso, 139.00, 46.57 / 10376378, Clistenes Pericles de Santana Morais,
+145.00, 46.00 / 10093659, Cristiano Vieira Cavalcanti, 128.00, 29.58 / 10561946, Damara Rodrigues
+Gomes, 120.00, 17.71 / 10061639, Daniel Carlos dos Santos Barbosa, 125.00, 30.03 / 10567687, Daniel
+Cavalcante Costa, 122.00, 15.38 / 10145047, Daniel da Silva Arouxa, 150.00, 46.00 / 10513192, Daniel
+Moura Santoianni Silva, 154.00, 41.85 / 10362533, Daniele de Sousa Macedo, 124.00, 48.57 / 10118443,
+Danilo Dias Figueiredo, 124.00, 34.58 / 10657410, Danilo Nascimento Rolim dos Santos, 130.00, 49.63 /
+10510522, Debora Brasil Ventura Rocha e Costa, 132.00, 39.76 / 10092092, Debora Doria Silva Meneses,
+140.00, 35.84 / 10026306, Debora Nascimento Ferreira, 126.00, 47.00 / 10641167, Debora Nayanne da
+Silva, 126.00, 22.54 / 10053874, Debora Tatiane de Araujo Brito, 124.00, 17.38 / 10382997, Debora Urias
+da Silva Barros, 118.00, 43.85 / 10257077, Deivid Marcos de Cristo, 124.00, 29.33 / 10455880, Denilson
+dos Santos Firmino, 132.00, 38.76 / 10715453, Diego da Silva Nascimento, 128.00, 30.72 / 10073202,
+Diego Rafael Dantas Cavalcanti de Almeida, 149.00, 48.33 / 10220322, Diego Ranyeres Silva Correia,
+140.00, 21.58 / 10482011, Dieri do Socorro da Silva Eugenio, 130.00, 28.04 / 10414757, Diogo Alexandre
+Bezerra Coquita, 138.00, 18.17 / 10549887, Diogo Henrique de Aquino Borges, 130.00, 30.75 / 10600249,
+Diogo Ranulfo Silva do Carmo, 123.00, 19.75 / 10556871, Diogo Rodrigo Rufino Martins Ramos, 137.00,
+46.67 / 10008738, Dione Cecilia da Silva Lima, 132.00, 44.50 / 10481302, Dione Nascimento de Araujo
+Tinoco, 126.00, 19.36 / 10042682, Dionesio Ulisses de Medeiros, 126.00, 29.50 / 10101102, Djanice Silva
+de Santana, 121.00, 45.17 / 10743367, Doracy Skuld de Freitas Ribeiro Palmeira, 127.00, 48.57 /
+10510408, Douglas Marcos Farias Silva, 144.00, 44.25 / 10073567, Edilaine Souza de Gois, 122.00, 25.88
+/ 10466603, Edinaldo Leite Filho, 122.00, 43.93 / 10249075, Edson Francisco da Rocha, 132.00, 22.08 /
+10017212, Edson Luciano Pereira Figueiredo Filho, 142.00, 50.00 / 10550330, Eduardo de Almeida
+Bezerra, 124.00, 28.10 / 10029885, Eduardo de Oliveira Moreira, 124.00, 11.80 / 10269194, Elane Teixeira
+Guedes, 128.00, 37.42 / 10457694, Elanxirle Teixeira da Silva, 140.00, 21.78 / 10769030, Eldemberga
+Grangeiro dos Anjos, 127.00, 38.64 / 10419820, Eliade Venancio Alexandre, 148.00, 31.23 / 10044000,
+Elias Macedo da Silva, 125.00, 42.32 / 10785777, Elida Judy de Sousa Correa, 126.00, 41.67 / 10427150,
+Elson Ferreira Gomes, 131.00, 17.13 / 10152277, Emanuela Elys Daniel, 124.00, 25.59 / 10070771,
+Emanuele Madeira Sobrinho, 139.00, 26.68 / 10549373, Emanuelle da Costa Pedroza, 145.00, 46.90 /
+10487766, Emmanuela Soares Carneiro da Silva, 122.00, 11.33 / 10195652, Enilda Carla da Silva, 123.00,
+33.13 / 10036650, Erika Maria da Rocha Silva Valenca Mota, 124.00, 19.81 / 10016195, Etiene Felisberta
+Silva, 128.00, 34.84 / 10379159, Evaldo Fabio da Silva, 152.00, 45.63 / 10475768, Evelly Silva de Moura,
+125.00, 16.59 / 10588560, Ewerthon Gomes Ferro, 132.00, 36.67 / 10023069, Ewerton Humberto da Silva,
+155.00, 35.88 / 10449670, Fabiana Alves do Nascimento, 126.00, 33.88 / 10455805, Fabiana Brito da
+Costa, 150.00, 39.76 / 10031470, Fabiana Cibele Leleu da Costa Araujo, 147.00, 43.55 / 10301680, Fabio
+Luiz da Silva, 128.00, 5.62 / 10272830, Felipe Conceicao Aragao Pereira, 120.00, 35.71 / 10180745, Felipe
+Jose de Oliveira da Silva, 137.00, 43.45 / 10532374, Felipe Marcos da Silva, 137.00, 14.96 / 10097997,
+Felipe Monteiro Rocha Magalhaes, 121.00, 24.11 / 10070739, Fernanda do Nascimento Correa, 143.00,
+41.75 / 10577982, Fernanda Raiza Goncalves da Silva, 120.00, 29.10 / 10076805, Fernando Antonio da
+Silva Filho, 136.00, 42.58 / 10548671, Fernando Aquino de Oliveira Rego, 118.00, 15.46 / 10527975,
+Fernando Huttel, 136.00, 46.33 / 10007376, Fernando Muniz Ferreira, 130.00, 30.40 / 10597019,
+Fernando Tafner, 128.00, 28.23 / 10675463, Fidel Parente de Alencar Pimentel, 137.00, 46.25 / 10233168,
+Flavia Claudino dos Santos, 120.00, 17.56 / 10190342, Flavia Gomes da Silva, 161.00, 28.38 / 10502500,
+Flavia Maria Marques Peixoto, 129.00, 19.30 / 10144286, Flavio Rubem Accioly Campos Neto, 131.00,
+12.75 / 10171373, Franciele da Silva Lima, 128.00, 31.10 / 10211151, Francielle Silva de Souza, 118.00,
+48.67 / 10514702, Francisco de Assis Rocha da Silva, 131.00, 27.59 / 10461342, Frederico Regis de Sa e
+Soares, 142.00, 45.16 / 10148625, Gabriela Kelly Cunha Andrade, 122.00, 46.33 / 10238285, Gedilson
+Manoel de Souza Lima, 131.00, 44.64 / 10822661, Genivaldo Ferreira dos Santos, 126.00, 30.93 /
+10283008, George Ferreira Cavalcanti, 140.00, 27.51 / 10524502, Gerlane Lucia da Silva, 133.00, 36.34 /
+10006945, Gerliane Josina Macedo, 138.00, 16.83 / 10567040, Gilciara Paula dos Santos Vasconcelos,
+119.00, 28.15 / 10525250, Gilson Cavalcanti Nunes Junior, 147.00, 29.67 / 10329794, Gilson Muniz
+Morais, 120.00, 41.48 / 10063664, Gleyce Danielle de Araujo Amancio, 134.00, 37.91 / 10404604, Grace
+Juliana Torres de Albuquerque, 132.00, 29.05 / 10368545, Guilherme Carlos da Silva Borges, 150.00, 19.55
+/ 10042414, Guilherme de Aguiar Barbosa Junior, 124.00, 43.98 / 10394149, Guilherme Emmanuel de
+Souza Carneiro da Cunha, 141.00, 12.00 / 10607001, Gustavo Andrade Lima da Cunha Pedrosa, 122.00,
+10.68 / 10482470, Gustavo Andre Vieira da Silva, 128.00, 39.05 / 10336930, Gustavo de Melo Brilhante,
+128.00, 21.57 / 10383194, Halime Fares Akel, 141.00, 43.31 / 10108747, Heitor Silva de Albuquerque,
+141.00, 44.88 / 10269491, Helvercio Viturino dos Santos Junior, 119.00, 24.66 / 10524963, Hercules Pio
+da Silva, 133.00, 49.33 / 10103564, Herica Almeida de Andrade, 119.00, 37.55 / 10150467, Herivelto
+Chaves Rocha Junior, 128.00, 41.55 / 10290703, Hermana de Fatima Borges, 138.00, 17.84 / 10364948,
+Higo Jose Melo Silva, 145.00, 44.38 / 10014919, Higor Juan Vasconcelos da Silva, 148.00, 23.32 /
+10645883, Hugo da Silva Sena, 135.00, 10.82 / 10191530, Ide Rodrigues Moraes, 145.00, 46.66 /
+10476753, Ilan Gabriel Mendonca Lins, 140.00, 16.66 / 10024215, Ingrid Stefane Ricardo de Lima, 136.00,
+20.05 / 10475307, Isaac Laurentino da Silva Junior, 126.00, 44.29 / 10788595, Isabel Dianes dos Santos,
+131.00, 43.67 / 10588377, Isabela Pontes Franca, 122.00, 20.57 / 10723886, Israel Paz Cavalcanti, 142.00,
+26.31 / 10073903, Italo Simplicio de Freitas Paiva, 122.00, 46.07 / 10467815, Itanara da Silva Barbosa,
+142.00, 25.16 / 10222516, Izabela Ferreira de Carvalho, 121.00, 28.45 / 10531520, Izabelh Silvina de Paula
+Lima, 134.00, 25.93 / 10396127, Jabson de Santana Silva, 138.00, 33.72 / 10559167, Jackeline Cunha de
+Aguiar, 134.00, 22.60 / 10458466, Jackson Manuel Neves, 136.00, 44.25 / 10621148, Jackson Paulino da
+Silva, 121.00, 31.16 / 10039305, Jacob Vasconcelos Matos, 128.00, 17.69 / 10267950, Jacqueline Falcao
+Abecassis Pinto, 118.00, 18.80 / 10446397, Jacqueline Vanessa Albuquerque Granja Rocha, 142.00, 32.92
+/ 10397197, Janaina da Silva Gomes, 118.00, 17.67 / 10058679, Janaina de Oliveira Barros, 147.00, 44.88
+/ 10616175, Jesimiel Aguiar Lima de Oliveira, 119.00, 43.00 / 10010612, Jessica Espindola de Sa, 150.00,
+22.38 / 10034268, Jessica Muniz Bezerra, 127.00, 40.32 / 10181948, Jessica Oliveira de Burgos, 126.00,
+29.08 / 10141094, Jessica Oliveira Santos, 132.00, 49.66 / 10031956, Jessica Pricila Pereira de Oliveira,
+121.00, 19.92 / 10156047, Jessica Temoteo da Cruz, 119.00, 13.74 / 10613730, Jezreel Paulo de Barros
+Alves, 122.00, 36.71 / 10336260, Joana Angelica Cavalcanti Brandao, 134.00, 29.00 / 10549498, Joana
+Paula Correia da Silva, 140.00, 42.72 / 10559448, Joao Camilo de Albuquerque Filho, 122.00, 45.67 /
+10557624, Joao Henrique Macedo Maia Campos, 149.00, 45.08 / 10435475, Joao Henrique Silveira Alves
+de Oliveira, 140.00, 47.67 / 10111086, Joao Victor Correia Borba, 121.00, 24.08 / 10366999, Jociellen
+Maria Gomes de Lima, 133.00, 29.71 / 10051875, Jocilene Nogueira de Moraes, 148.00, 41.50 / 10125892,
+Joelma Araujo de Medeiros, 142.00, 26.79 / 10026379, Joelma Cavalcante Soares, 140.00, 45.50 /
+10218727, Joelma Maria da Silva, 128.00, 12.21 / 10339744, Jonatas Tavares Correia da Conceicao,
+152.00, 43.71 / 10252148, Jonathan Felix de Carvalho, 128.00, 20.17 / 10802439, Jordana Soares de Lira,
+126.00, 34.93 / 10050992, Jorge Alberto de Araujo Ramos, 133.00, 21.02 / 10209185, Jose Aderson de
+Oliveira, 126.00, 33.68 / 10508730, Jose Almir Batista de Mederos Gomes, 145.00, 23.96 / 10410308, Jose
+Anderson da Silva Soares, 137.00, 15.30 / 10138726, Jose Antonio da Silva Junior, 122.00, 40.30 /
+10448928, Jose Antonio Muniz, 118.00, 32.58 / 10696315, Jose Augusto de Lima Souza, 126.00, 31.62 /
+10763640, Jose Cassio Alves Ramos, 120.00, 12.38 / 10537193, Jose Gabriel Lopes Laurentino, 148.00,
+46.33 / 10004489, Jose Igor Sotero Vieira de Melo, 135.00, 44.00 / 10007143, Jose Lucas de Lima Siqueira,
+118.00, 32.19 / 10101060, Jose Mauricio de Melo Filho, 119.00, 11.84 / 10259350, Jose Neilton Pereira,
+142.00, 28.42 / 10004378, Jose Pinheiro da Mouta Filho, 122.00, 49.33 / 10156412, Jose Thiago Luna,
+121.00, 16.48 / 10464978, Jose Viana Guedes Neto, 125.00, 49.31 / 10395302, Jose Victor Vieira de Melo
+dos Santos, 128.00, 25.00 / 10165001, Josefa Cintia de Freitas, 130.00, 49.33 / 10276216, Josianne Pereira
+Brandao da Silva, 120.00, 34.13 / 10534236, Josiel Carvalho de Brito, 140.00, 29.58 / 10204873, Julia de
+Miranda Meira, 139.00, 31.83 / 10082861, Julia Ferraz Drahomiro Duarte Padilha, 142.00, 39.71 /
+10034598, Julia Lins de Araujo Donato, 122.00, 32.55 / 10277827, Juliana Araujo de Moura, 118.00, 17.30
+/ 10393985, Juliana Cabral Duarte Pereira, 120.00, 39.83 / 10524792, Juliana do Amaral Reis, 149.00,
+29.05 / 10536781, Juliana Gomes Oliveira, 126.00, 46.88 / 10133601, Juliana Izabela Gomes de Oliveira,
+126.00, 36.17 / 10216253, Juliana Kessia de Jesus dos Santos, 124.00, 33.71 / 10450284, Juliana Lins de
+Albuquerque Souza, 128.00, 41.93 / 10426278, Juliana Oliveira dos Santos, 128.00, 33.38 / 10098083,
+Juliane Santos da Silva, 127.00, 41.72 / 10605891, Kaio Vitor Goncalves de Freitas, 119.00, 37.50 /
+10407111, Karen Cristina Monteiro de Araujo, 121.00, 27.94 / 10000200, Karina Almeida Silva Lopes Aoki,
+118.00, 5.99 / 10272013, Katarina de Sousa Medeiros, 135.00, 45.31 / 10333283, Kathiane Galdino Maia
+Gomes, 123.00, 50.00 / 10736893, Kelly Regina de Lima Gomes Caminha, 136.00, 0.00 / 10021533, Kesia
+Karla Silva Vercosa de Melo, 153.00, 26.52 / 10464643, Kildary Silva Sales, 134.00, 24.68 / 10166860,
+Kleibson Gomes Ferreira, 124.00, 41.81 / 10119457, Lais Cardoso Silva Arruda, 122.00, 45.15 / 10637458,
+Lais Padua Ribeiro, 124.00, 35.71 / 10324946, Lamartine Ulisses Rodrigues de Oliveira, 144.00, 33.97 /
+10480571, Lazaro Davi, 136.00, 37.92 / 10259756, Lenilton Cassiano da Silva, 159.00, 38.34 / 10352114,
+Leonardo Bezerra Soares de Melo, 139.00, 20.49 / 10792309, Leonardo da Silva Ribeiro, 123.00, 17.85 /
+10189944, Leonardo Francisco da Silva, 155.00, 44.25 / 10479484, Leonardo Jose de Oliveira Junior,
+142.00, 26.71 / 10241765, Leonardo Pereira de Albuquerque, 121.00, 50.00 / 10426517, Leticia Pasuch
+Pelegrini, 150.00, 48.67 / 10494349, Leugim Ruann Americo da Silva Martins, 132.00, 17.55 / 10682238,
+Leyvson Cezar do Nascimento, 120.00, 44.13 / 10475956, Liara Lira da Costa, 136.00, 21.11 / 10260134,
+Lidiane da Silva Vieira, 120.00, 15.11 / 10071613, Lilian da Silva Brito, 135.00, 28.69 / 10228461, Livia
+Maciel Guimaraes Costa, 128.00, 43.55 / 10276632, Livia Maria Soares Teles, 138.00, 47.50 / 10605272,
+Lorena Maria Ferrario Leite Costa, 123.00, 50.00 / 10544801, Lorena Sergio Castro da Silva, 118.00, 38.67
+/ 10158278, Loumaira Carvalho da Cruz, 118.00, 29.05 / 10483147, Luan Charles Cavalcante Lima dos
+Santos, 128.00, 12.59 / 10602108, Luana Justino Andrade do Nascimento, 136.00, 30.07 / 10533742,
+Luanny Felix Delfino, 118.00, 28.08 / 10235608, Lucas de Lima Vieira, 128.00, 46.50 / 10047902, Lucas
+Ferreira Vilanova, 150.00, 22.33 / 10292665, Lucas Samuel de Araujo Pereira, 125.00, 20.92 / 10629131,
+Lucas Vinicius Barbosa de Santana, 122.00, 21.01 / 10562886, Luciana de Franca Frazao, 132.00, 31.86 /
+10255512, Luciana Lins Camello Galvao, 119.00, 43.05 / 10032072, Luis Otavio Alfredo de Barros, 127.00,
+30.67 / 10103909, Luisa Ximenes Santos, 119.00, 29.67 / 10368320, Luiz Carlos Florencio Mota, 126.00,
+23.50 / 10325996, Luiz Felipe da Silva, 148.00, 30.56 / 10503635, Luiz Henrique Franca Gomes da Silva,
+120.00, 45.42 / 10043649, Mabel Queiroz de Oliveira Gomes, 150.00, 29.96 / 10407015, Makson Breno
+da Silva Monte, 129.00, 27.47 / 10008117, Manaira Freitas Silva, 158.00, 50.00 / 10183705, Manoel
+Domingos de Lira Neto, 122.00, 29.46 / 10713294, Manuella Alves de Lima e Silva, 120.00, 48.80 /
+10531355, Marcele de Morais Silva, 134.00, 20.32 / 10769091, Marcelo Figueiredo Malheiros, 128.00,
+43.67 / 10387426, Marcelo Schuler de Melo Filho, 129.00, 48.00 / 10530065, Marcia Lorena Oliveira da
+Silva, 132.00, 29.63 / 10014061, Marcia Maria de Oliveira Medeiros, 149.00, 42.68 / 10531777, Marciane
+Rocha Barros da Hora, 126.00, 14.84 / 10038897, Marcilio Angelo e Silva, 126.00, 48.67 / 10585366,
+Marcio Lopes Coutinho, 136.00, 40.89 / 10078377, Marco Tulio Ferraz Xavier, 126.00, 30.96 / 10121112,
+Marcos Antonio Paes da Silva Filho, 124.00, 48.71 / 10349855, Marcos Daniel de Araujo, 132.00, 39.63 /
+10211847, Marcos Jose Ferreira, 118.00, 19.05 / 10023492, Marcos Vinicius Costa Domingues da Silva,
+138.00, 39.92 / 10356216, Marcus Filipe de Oliveira, 120.00, 47.04 / 10016585, Marcus Walmsley Milet
+Morais, 131.00, 49.31 / 10432401, Maria Alice de Lemos Dantas, 137.00, 29.23 / 10503943, Maria Clara
+Gomes Maciel, 147.00, 26.66 / 10447568, Maria Edna Gomes de Barros, 121.00, 13.25 / 10528259, Maria
+Eduarda Alves Peixoto de Albuquerque, 140.00, 27.67 / 10372630, Maria Gabriela Carvalho Coutinho,
+122.00, 41.53 / 10076452, Maria Gerlucia Ferreira Marques, 130.00, 12.03 / 10384213, Maria Isabel
+Goncalves Lima Moura, 132.00, 25.09 / 10011254, Maria Jose Ribeiro Tavares, 138.00, 42.38 / 10406523,
+Maria Luiza Portela Machado, 131.00, 30.67 / 10161606, Maria Quiteria do Nascimento Silva Araujo,
+120.00, 35.26 / 10358034, Maria Thereza Tavares de Albuquerque, 123.00, 31.69 / 10372011, Maria
+Victoria de Santana, 120.00, 32.42 / 10164509, Mariana Diniz Mendes Araujo, 129.00, 39.25 / 10837691,
+Mariana Guerra Studart, 146.00, 45.17 / 10000837, Mariana Marinho Martins Guedes Correia Milet,
+147.00, 31.33 / 10010953, Mariana Rebeka Gomes Queiroz, 120.00, 42.66 / 10466426, Mariane Marilis
+Oliveira, 133.00, 33.58 / 10044219, Mariane Tenorio Regis, 140.00, 31.30 / 10563320, Marilia Barbosa de
+Brito, 133.00, 25.87 / 10634501, Marilia de Melo Vasconcelos, 142.00, 22.38 / 10144914, Marina Alves de
+Lima Bezerra, 122.00, 41.05 / 10169277, Marina Araujo Fontes, 130.00, 48.26 / 10397503, Marisa Catarina
+Mesquita Espindola, 126.00, 15.75 / 10271628, Marta Leite, 118.00, 44.55 / 10041781, Massilon Gomes
+Vidal, 118.00, 37.16 / 10361911, Mateus Lopes dos Reis, 146.00, 33.96 / 10032649, Matheus Gomes
+Mestre, 120.00, 30.28 / 10506448, Matheus Ricarte de Oliveira Souza, 129.00, 37.00 / 10336112, Mauriele
+de Araujo Sousa, 122.00, 19.57 / 10361159, Mayara Karla de Lima, 118.00, 26.54 / 10216619, Melina
+Emille Nunes Genu, 118.00, 30.08 / 10322661, Mercia Helena da Silva Leite Lira, 126.00, 27.51 / 10015210,
+Mercia Maria da Silva, 125.00, 28.42 / 10284393, Micheli Milena de Araujo Bacelar, 135.00, 22.13 /
+10304116, Michelle Paschoal de Souza Silva, 124.00, 0.00 / 10520255, Miguel Vieira Araujo, 136.00, 47.58
+/ 10486424, Milena Rita de Souza, 137.00, 14.78 / 10206008, Mirella Alves Vicente, 135.00, 30.57 /
+10059863, Mirella Pereira Paes Barretto, 121.00, 38.43 / 10044594, Miriam Gomes Correia, 120.00, 41.31
+/ 10246907, Moises Ramos de Oliveira, 118.00, 14.83 / 10022506, Monica Maria de Paiva Botelho, 137.00,
+46.13 / 10652462, Monica Patricia de Melo Ramalho, 123.00, 25.08 / 10383602, Monica Santos de Araujo
+Abreu, 122.00, 22.68 / 10125108, Mylena Cristina da Silva Lima, 130.00, 48.67 / 10509293, Narah Gomes
+Franca, 119.00, 12.13 / 10643366, Nathalia de Araujo Guerra, 135.00, 44.80 / 10031823, Nayara Candida
+Romualdo de Oliveira, 128.00, 49.66 / 10259389, Neiva Tiemi Imafuku Santos, 140.00, 19.53 / 10155996,
+Nicolly Perez Santiago, 122.00, 45.67 / 10083872, Nina da Mota Soares Cavalcanti, 138.00, 42.50 /
+10146413, Pablo Candido de Araujo, 124.00, 24.09 / 10072497, Paloma Mena Martinez, 126.00, 19.00 /
+10062963, Paloma Pereira Brito, 120.00, 24.50 / 10093696, Pamella Bezerra Guedes, 158.00, 21.25 /
+10323630, Patricia Andrea da Silva Oliveira, 135.00, 49.00 / 10147399, Patricia Santos Freire, 126.00,
+29.08 / 10018042, Paula Rodrigues Diniz de Souza, 126.00, 41.92 / 10112293, Paulo Cesar Mesquita Pinto
+do Rego, 127.00, 46.00 / 10502898, Paulo Victor da Cruz Souto Maior, 146.00, 44.17 / 10019738, Pedro
+Antonio Virginio de Melo, 130.00, 42.88 / 10338296, Pedro Francisco do Rego Neto, 130.00, 26.38 /
+10271594, Pedro Henrique Celestino de Oliveira, 141.00, 47.67 / 10216722, Pedro Siqueira Moura Gomes
+Nunes Pereira, 119.00, 33.52 / 10396955, Pollyana Maria Barros de Franca, 134.00, 40.83 / 10405886,
+Pollyanna Gomes de Moraes, 132.00, 48.89 / 10249670, Priscila Alves Braga, 132.00, 44.83 / 10092023,
+Priscila Daiana do Monte Lima, 119.00, 42.25 / 10586655, Rafael Iago Balbino da Silva, 125.00, 19.35 /
+10044276, Rafael Silveira da Rosa, 121.00, 14.05 / 10082305, Ramon Barreto dos Santos, 138.00, 46.77 /
+10634198, Raniely Carla Azevedo, 121.00, 44.83 / 10369562, Raquel de Paula Machado Nascentes,
+136.00, 33.30 / 10405053, Raquel Ventura Lima, 118.00, 33.77 / 10408884, Rebeca Maria Brasileiro de
+Sousa Souto, 140.00, 43.58 / 10348783, Regivan Alencar Luna, 134.00, 36.88 / 10131407, Renata Cristina
+Martins Cauponi, 121.00, 36.50 / 10254846, Renata Karina Goncalves Monteiro, 138.00, 30.28 /
+10469643, Ricardo Hiroshi Ferreira Hiramine, 128.00, 49.29 / 10205083, Ricardo Rogerio Virginio Silva
+Ferreira, 129.00, 21.87 / 10643008, Ricardo Soares dos Santos, 140.00, 46.33 / 10216712, Roberta de
+Carvalho Barbosa, 121.00, 42.99 / 10430730, Roberto Amorim Sousa, 121.00, 37.52 / 10587528, Robson
+da Silva Alencar, 157.00, 46.33 / 10499069, Robson Ferreira da Silva, 141.00, 41.83 / 10668736, Robson
+Jose de Brito, 134.00, 27.92 / 10554536, Robson Moura de Lima, 122.00, 35.80 / 10395120, Rodolpho
+Belarmino da Silva, 133.00, 43.08 / 10658130, Rodrigo Cavalcanti de Albuquerque, 118.00, 15.08 /
+10079530, Rodrigo Malveira Pinheiro, 125.00, 47.20 / 10675736, Rodrigo Soares Pinheiro, 129.00, 15.38
+/ 10418224, Rogerio Lima Paixao, 137.00, 45.68 / 10031630, Romulo Gantois Massa Borges, 135.00, 24.55
+/ 10109079, Rony Joab do Nascimento, 156.00, 24.88 / 10633314, Rosalvo Pereira da Silva, 130.00, 23.25
+/ 10151861, Rosana Fabiana Mendes de Oliveira Lima, 136.00, 21.71 / 10690560, Rosilane Araujo Barreto
+Carvalho, 131.00, 33.08 / 10492479, Roxana Isle Wanderley, 118.00, 48.00 / 10397982, Rubia de Fatima
+Souza da Costa, 119.00, 39.84 / 10098884, Sabrina Andrade de Alcantara, 146.00, 48.33 / 10513052,
+Sabrina dos Prazeres Leocadio, 125.00, 26.52 / 10471553, Samara Castro Fonseca, 136.00, 9.36 /
+10254344, Samuel Batista da Silva, 123.00, 44.67 / 10558860, Sandoval Kehrle, 122.00, 26.17 / 10264962,
+Saulo Melo Moraes Catao, 129.00, 28.64 / 10390738, Scheilla Serretti de Castro, 154.00, 49.33 /
+10820745, Sefora Pereira da Silva, 152.00, 47.00 / 10231920, Sergiane David Rodrigues, 124.00, 48.71 /
+10280992, Sergio Coimbra e Silva Junior, 120.00, 31.33 / 10467778, Severino Batista de Freitas, 119.00,
+16.42 / 10746262, Sharlynger Ferreira dos Santos, 150.00, 24.05 / 10649535, Sidney Geber de Melo
+Correia Costa, 118.00, 49.00 / 10768941, Sidrack Felipe da Silva Junior, 137.00, 21.09 / 10472201, Sillas
+Marcos de Araujo Magalhaes, 132.00, 30.83 / 10781385, Silvia Braz de Oliveira, 132.00, 0.00 / 10467856,
+Silvio Batista de Freitas, 159.00, 28.33 / 10694569, Simone Araujo Costa, 139.00, 48.00 / 10504412,
+Simone Maria da Silva, 142.00, 23.09 / 10442797, Solon Severino de Santana, 121.00, 24.21 / 10233297,
+Sthefani Larissa de Moura Barbosa, 134.00, 20.05 / 10516119, Suzana Cavalcanti de Albuquerque Souza,
+147.00, 48.67 / 10194143, Suzineide Rejane Lira da Cruz, 124.00, 25.87 / 10676999, Taciana Karla Santana
+da Silva, 134.00, 47.50 / 10312246, Taciana Maria da Silva, 123.00, 22.58 / 10333289, Taisa Karla Barbosa
+Ramos, 123.00, 24.42 / 10333861, Tarcisio Vieira Neto, 136.00, 25.27 / 10287148, Tatiana Albuquerque
+Leite, 129.00, 18.05 / 10422499, Tauan de Oliveira Saturnino, 125.00, 31.17 / 10374394, Tayna Barbosa
+Correia, 136.00, 28.01 / 10494345, Teresa Bruna dos Santos Silva, 126.00, 18.94 / 10612690, Thais
+Buarque Vieira de Mello, 125.00, 40.81 / 10430248, Thais Farias Pereira da Silva, 123.00, 19.17 /
+10409006, Thales Coelho Machado, 125.00, 31.30 / 10404945, Thayslanya Barbosa Prazeres, 140.00,
+29.21 / 10032093, Thayza Beatriz da Silva, 139.00, 6.01 / 10868657, Thiago Bandeira Fernandes, 126.00,
+44.42 / 10533206, Thiago Felipe de Albuquerque Paiva, 132.00, 40.58 / 10466984, Thiago Gustavo de
+Sena, 120.00, 46.83 / 10146560, Thiago Santos dos Anjos, 118.00, 3.13 / 10586950, Thiana Laiza Dantas
+Bezerra, 122.00, 18.99 / 10393201, Tiago Augusto Galindo Valentim, 120.00, 34.00 / 10575012, Tiago
+Carvalho Farias, 128.00, 39.42 / 10647739, Tiago Felix de Melo, 121.00, 41.38 / 10279453, Tiago Pereira
+de Albuquerque, 118.00, 37.21 / 10476711, Ubyratan Jose de Assis Fonseca Filho, 122.00, 32.71 /
+10371594, Uriel Fernandes da Silva Lima, 144.00, 40.17 / 10368860, Valdicleria Vieira de Albuquerque,
+144.00, 31.76 / 10618579, Valdir Cesar Bezerra de Lira, 128.00, 23.08 / 10317258, Valeria Rodrigues
+Bezerra Silva, 141.00, 42.52 / 10745697, Vanessa Bezerra Machado, 131.00, 40.79 / 10790696, Vanessa
+da Silva Souza, 134.00, 41.02 / 10483772, Vanessa Maria Oliveira Costa, 131.00, 28.46 / 10001386, Victor
+Hugo Forte Leitao, 141.00, 46.58 / 10676803, Victor Hutton Araujo dos Santos, 138.00, 25.88 / 10031627,
+Victoria Beatriz Ferreira Vilela, 119.00, 40.00 / 10538042, Vinicius Alves Santos, 156.00, 23.83 / 10020796,
+Vinicius Carlos de Souza Arruda, 128.00, 30.43 / 10661027, Vinicius Tenorio Machado, 132.00, 12.95 /
+10562120, Vital Pereira Fernandes, 129.00, 23.92 / 10259669, Vitoria Nobre Velez, 119.00, 28.89 /
+10485696, Vitoria Regia dos Santos Felipe da Silva, 135.00, 28.35 / 10303817, Viviane Carvalho, 126.00,
+46.00 / 10168616, Viviany Soares Machadoda Ponte, 122.00, 45.88 / 10049348, Walter Thomas Santos
+Salgado Vasconcelos, 132.00, 24.93 / 10031343, Washington de Freitas Barbosa da Silva, 136.00, 35.00 /
+10221343, Washington Soares Franca, 127.00, 37.67 / 10348632, Weider de Farias Melo, 124.00, 26.21 /
+10104406, Wellington da Costa Moreira, 134.00, 17.55 / 10007534, Wendel Crispim da Cruz, 126.00,
+21.66 / 10538954, Wendson Filipe de Queiroz, 142.00, 36.64 / 10101413, Wenil Alves do Nascimento,
+134.00, 18.01 / 10425587, Williams Alves dos Santos, 129.00, 33.25 / 10641117, Wilson Marcos de
+Albuquerque, 118.00, 7.95 / 10261534, Yvves Louramth Leite Pereira, 144.00, 43.34 / 10190011, Zimonni
+Rodolfo dos Santos, 120.00, 27.50.
